@@ -1,0 +1,2 @@
+class Foreign < ApplicationRecord
+end
